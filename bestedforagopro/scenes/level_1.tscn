@@ -19,6 +19,7 @@ scale = Vector2(4.460532, 2.642166)
 texture = ExtResource("3_rus8k")
 
 [node name="StaticBody2D" type="StaticBody2D" parent="." unique_id=937738565]
+position = Vector2(2, -205)
 
 [node name="Sprite2D" type="Sprite2D" parent="StaticBody2D" unique_id=1746019632]
 position = Vector2(291, 273)
@@ -31,4 +32,4 @@ scale = Vector2(18.799995, 1)
 shape = SubResource("RectangleShape2D_5xbjy")
 
 [node name="Player" parent="." unique_id=55856584 instance=ExtResource("2_rus8k")]
-position = Vector2(294, 176)
+position = Vector2(286, -16)
